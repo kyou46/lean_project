@@ -1,2 +1,2 @@
-# lean_project
-Formalization of Doob's inequality (probability theory)
+# LEAN レポート課題 
+確率論における Doob の不等式の形式化
